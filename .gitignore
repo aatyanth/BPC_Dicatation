@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Whisper model weight cache
+~/.cache/whisper/
+
+# Temporary audio files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
