@@ -1,0 +1,12 @@
+# Core Whisper model (OpenAI open-source release)
+openai-whisper>=20240930
+
+# HTTP server for UE5 Blueprint integration
+flask>=3.1.0
+
+# Audio capture for local microphone transcription
+sounddevice>=0.5.1
+soundfile>=0.12.1
+
+# Numerical processing (transitive, pinned for safety)
+numpy>=1.26.0
